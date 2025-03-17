@@ -37,7 +37,7 @@ CRYPTO_MAPPING = {
     'tron': ['trx'],
     'toncoin': ['ton'],
     'shibainu': ['shib'],
-    'nearprotocol': ['near']
+    'nearprotocol': ['near'],
     'orchest': ['orc'],
     'yeye': ['yey'],
     'hoodgold': ['hg'],
