@@ -7,7 +7,9 @@ import random
 from datetime import datetime, timedelta
 from nltk.sentiment.vader import SentimentIntensityAnalyzer
 
+from flask_cors import CORS 
 app = Flask(__name__)
+CORS(app)
 
 # Download NLTK resources
 nltk.download('vader_lexicon')
