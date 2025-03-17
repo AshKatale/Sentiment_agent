@@ -38,6 +38,16 @@ CRYPTO_MAPPING = {
     'toncoin': ['ton'],
     'shibainu': ['shib'],
     'nearprotocol': ['near']
+    'orchest': ['orc'],
+    'yeye': ['yey'],
+    'hoodgold': ['hg'],
+    'swasticoin': ['swc'],
+    'ron': ['ron'],
+    'jupyter': ['jup'],
+    'tokenofficialtrump': ['tot'],
+    'jito': ['jto'],
+    'grass': ['grs']
+    
 }
 
 class CryptoAnalyzer:
